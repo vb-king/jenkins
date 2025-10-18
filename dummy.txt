@@ -1,4 +1,4 @@
 this is the dummy
 git 
 
-with jemkins
+with jenkins
